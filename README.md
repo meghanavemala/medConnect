@@ -9,7 +9,7 @@ Welcome to the **OPD Appointment App**! This app simplifies the process of booki
 - 🤖 **Chatbot Assistance**: A smart chatbot to recommend doctors based on symptoms entered by the patient.
 - 📅 **Doctor Availability**: View available time slots for doctors.
 - 🛎️ **Notifications**: Get notifications for booked appointments.
-- 🧑‍⚕️ **User-Friendly Interface**: Simple and intuitive UI built with Streamlit.
+- 🧑‍⚕️ **Admin Interface**: Admin can manage patient appointments, doctor and patient details.
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to the **OPD Appointment App**! This app simplifies the process of booki
 - **Python** 🐍
 - **Streamlit** 🎨
 - **Pymongo** (or any other database for storing data) 🗂️
-- **Push Notification Service** (e.g., Firebase) 🔔
+- **Push Notification Service** (Firebase) 🔔
 
 ---
 
@@ -63,3 +63,9 @@ Welcome to the **OPD Appointment App**! This app simplifies the process of booki
 ## ❤️ Contributing
 
 We welcome contributions to make this app even better! Feel free to submit pull requests or open issues. 😊
+
+---
+
+## Here are some screenshots of our app
+
+
