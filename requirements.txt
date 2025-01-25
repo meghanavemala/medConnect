@@ -1,5 +1,5 @@
 streamlit
-pymonogo
+pymongo
 objectid
 pandas
 hashlib
