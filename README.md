@@ -1,6 +1,6 @@
 # 🏥 OPD Appointment App
 
-Welcome to the **OPD Appointment App**! This app simplifies the process of booking appointments with doctors by leveraging a chatbot for symptom-based doctor recommendations and providing an intuitive interface to check doctor availability. Notifications for booked appointments are also included to keep patients informed. Built using **Streamlit**, this app ensures a smooth and user-friendly experience. 🎉
+Welcome to the **OPD Appointment App**! This app simplifies the process of booking appointments with doctors by leveraging a chatbot for symptom-based doctor recommendations and providing an intuitive interface to check doctor availability. Notifications for booked appointments are also included to keep patients informed. Built using **Streamlit**, this app ensures a smooth and user-friendly experience, and also reduces the waiting time for patients at the hospital. 🎉
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to the **OPD Appointment App**! This app simplifies the process of booki
 
 - **Python** 🐍
 - **Streamlit** 🎨
-- **SQLite** (or any other database for storing data) 🗂️
+- **Pymongo** (or any other database for storing data) 🗂️
 - **Push Notification Service** (e.g., Firebase) 🔔
 
 ---
@@ -26,8 +26,8 @@ Welcome to the **OPD Appointment App**! This app simplifies the process of booki
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/opd-appointment-app.git
-   cd opd-appointment-app
+   git clone https://github.com/meghanavemala/medConnect.git
+   cd medConnect
    ```
 
 2. Install the required dependencies:
@@ -37,12 +37,7 @@ Welcome to the **OPD Appointment App**! This app simplifies the process of booki
 
 3. Run the Streamlit app:
    ```bash
-   streamlit run app.py
-   ```
-
-4. Open the app in your browser at:
-   ```
-   http://localhost:8501
+   streamlit run main5.py
    ```
 
 ---
