@@ -2,3 +2,7 @@ streamlit
 pymonogo
 objectid
 pandas
+hashlib
+doctors_data
+datetime
+pathlib
