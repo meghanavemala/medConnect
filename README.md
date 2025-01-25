@@ -69,3 +69,16 @@ We welcome contributions to make this app even better! Feel free to submit pull 
 ## Here are some screenshots of our app
 
 
+![image alt](https://github.com/meghanavemala/medConnect/blob/8083ce8ae5c0f3e183dda110f40b8f7041e4ef7d/Screenshot%202025-01-25%20105544.png)
+
+![image alt](https://github.com/meghanavemala/medConnect/blob/8083ce8ae5c0f3e183dda110f40b8f7041e4ef7d/Screenshot%202025-01-25%20105723.png)
+
+![image alt](https://github.com/meghanavemala/medConnect/blob/8083ce8ae5c0f3e183dda110f40b8f7041e4ef7d/Screenshot%202025-01-25%20105843.png)
+
+![image alt](https://github.com/meghanavemala/medConnect/blob/8083ce8ae5c0f3e183dda110f40b8f7041e4ef7d/Screenshot%202025-01-25%20105913.png)
+
+![image alt](https://github.com/meghanavemala/medConnect/blob/8083ce8ae5c0f3e183dda110f40b8f7041e4ef7d/Screenshot%202025-01-25%20110008.png)
+
+![image alt](https://github.com/meghanavemala/medConnect/blob/8083ce8ae5c0f3e183dda110f40b8f7041e4ef7d/Screenshot%202025-01-25%20110040.png)
+
+![image alt](https://github.com/meghanavemala/medConnect/blob/8083ce8ae5c0f3e183dda110f40b8f7041e4ef7d/Screenshot%202025-01-25%20110116.png)
