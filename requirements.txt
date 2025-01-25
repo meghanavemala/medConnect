@@ -1,6 +1,6 @@
 streamlit
 pymongo
-objectid
+ObjectId
 pandas
 hashlib
 datetime
